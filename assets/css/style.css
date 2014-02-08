@@ -1,0 +1,13 @@
+
+::selection{ background-color: #E13300; color: white; }
+::moz-selection{ background-color: #E13300; color: white; }
+::webkit-selection{ background-color: #E13300; color: white; }
+
+.place{
+	display: inline-block;
+	width: 200px;
+	text-align: center;
+	border: solid;
+	border-width: 1px;
+	padding: 0px 0px  15px 0px;
+}
